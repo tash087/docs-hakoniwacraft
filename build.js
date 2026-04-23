@@ -922,7 +922,7 @@ body {
           <div class="logo-icon-wrapper">
             <img src="/images/discord_icon.png" alt="Discord" class="logo-icon">
           </div>
-          Discord(準備中)</a>
+          Discord</a>
       </div>
     </div>
   </div>
@@ -1917,7 +1917,7 @@ body {
           <div class="logo-icon-wrapper">
             <img src="/images/discord_icon.png" alt="Discord" class="logo-icon">
           </div>
-          Discord(準備中)</a>
+          Discord</a>
       </div>
     </div>
   </div>

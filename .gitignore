@@ -1,15 +1,12 @@
-# 依存関係（絶対にコミットしない）
+# 依存関係関連
 node_modules/
-package-lock.json   # プロジェクトによっては残す場合もあるが、基本的に不要
+package-lock.json
 
-# ビルド出力
-dist/
-
-# OSゴミ
+# OS関連
 .DS_Store
 Thumbs.db
 
-# ログ
+# ログファイル
 *.log
 npm-debug.log*
 
@@ -17,7 +14,7 @@ npm-debug.log*
 .env
 .env.local
 
-# IDE
+# IDE関連
 .vscode/
 .idea/
 *.swp
@@ -26,4 +23,3 @@ npm-debug.log*
 # キャッシュ
 .cache/
 .parcel-cache/
-EOF

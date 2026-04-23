@@ -894,7 +894,7 @@ body {
       <div class="logo">
         <a href="/">
           <div class="logo-icon-wrapper">
-            <img src="/images/hakoniwa_link_icon.png" alt="HAKONIWA Studio" class="logo-icon">
+            <img src="/images/hakoniwa_craft_icon.png" alt="HAKONIWA Studio" class="logo-icon">
           </div>
           <div class="logo-text">
             <span class="logo-main">HAKONIWA Link</span>
@@ -910,7 +910,7 @@ body {
          ドキュメント</a>
         <a href="https://hknw.link" target="_blank" class="nav-link active">
           <div class="logo-icon-wrapper">
-            <img src="/images/service_icon.png" alt="サービス" class="logo-icon">
+            <img src="/images/server_icon.png" alt="サービス" class="logo-icon">
           </div>
           サービス</a>
         <a href="#準備中-github" target="_blank" class="nav-link active">
@@ -1894,7 +1894,7 @@ body {
       <div class="logo">
         <a href="/">
           <div class="logo-icon-wrapper">
-            <img src="/images/hakoniwa_link_icon.png" alt="HAKONIWA Studio" class="logo-icon">
+            <img src="/images/hakoniwa_craft_icon.png" alt="HAKONIWA Studio" class="logo-icon">
           </div>
           <div class="logo-text">
             <span class="logo-main">HAKONIWA Link</span>
@@ -1910,7 +1910,7 @@ body {
          ドキュメント</a>
         <a href="https://hknw.link" target="_blank" class="nav-link active">
           <div class="logo-icon-wrapper">
-            <img src="/images/service_icon.png" alt="サービス" class="logo-icon">
+            <img src="/images/server_icon.png" alt="サービス" class="logo-icon">
           </div>
           サービス</a>
         <a href="#準備中-github" target="_blank" class="nav-link active">
@@ -2181,9 +2181,9 @@ async function build() {
     
     // コピーする画像ファイルのリスト
     const imageFiles = [
-        'hakoniwa_link_icon.png',   // ファビコン・ロゴ用
+        'hakoniwa_craft_icon.png',   // ファビコン・ロゴ用
         'docs_icon.png',            // ドキュメントアイコン用
-        'service_icon.png',        // サービスアイコン用
+        'server_icon.png',        // サービスアイコン用
         'github_icon.png',          // GitHubアイコン用
         'discord_icon.png',         // Discordアイコン用
         // 'logo.png',              // 必要に応じて追加

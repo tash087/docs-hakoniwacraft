@@ -356,7 +356,7 @@ function generateIndexPage() {
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <link rel="icon" href="/images/hakoniwa_link_icon.png" type="image/png">
+  <link rel="icon" href="/images/hakoniwa_craft_icon.png" type="image/png">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="HAKONIWA Linkの公式ドキュメント。利用規約、プライバシーポリシー、サーバールールなど。">
   <meta name="robots" content="index, follow">
@@ -1207,7 +1207,7 @@ function renderMarkdownToHtml(markdown, doc, currentPath) {
 <html lang="${doc.lang}">
 <head>
   <meta charset="UTF-8">
-  <link rel="icon" href="/images/hakoniwa_link_icon.png" type="image/png">
+  <link rel="icon" href="/images/hakoniwa_craft_icon.png" type="image/png">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="${escapeHtml(doc.description)}">
   <meta name="robots" content="index, follow">
